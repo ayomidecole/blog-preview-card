@@ -1,0 +1,23 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50%;
+}
+
+.card{
+    background-color: hsl(0, 0%, 100%);
+    padding: 24px;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+}
+
+img{
+    border-radius: 10px;
+}
+
+h2:hover{
+    color: #F4D04E;
+    cursor: pointer;
+}
